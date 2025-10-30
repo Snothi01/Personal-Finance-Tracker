@@ -1,4 +1,5 @@
 1. Project Overview and Problem Statement
+
 The Personal Finance Tracker is a Java desktop application designed to solve the real-world problem where many individuals struggle to understand where their money goes each month. Without an organized record of income and expenses, tracking spending habits and planning budgets becomes difficult.
 This application provides an intuitive Graphical User Interface (GUI) for daily use, allowing users to effectively manage their finances.
 
